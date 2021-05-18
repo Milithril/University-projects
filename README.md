@@ -1,6 +1,17 @@
 # University-projects
 Projects, including C.A 
 
+X 3.7.8
+Changes:
+- Simulation will stop when there isn't any alive cell on map
+- 
+18.05.2021 V 3.7.2
+Changes:
+- Animation Hot-fix, program won't crash if loaded simulation file is shorther than it should be in params (early stopping)
+- Fixed wrong security allert when loading correct simulation file
+- Changed help text in the manual window 
+
+
 18.05.2021 V 3.7
 Changes:
 - Fixed Bug in Animation function, that caused error when loaded file wasn't simulation file
