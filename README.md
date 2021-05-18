@@ -20,12 +20,12 @@ Changes:
 - bug fixes with function "load image"
 
 
-29.04.2021 V 3.4
+29.04.2021 V 3.3
 Changes:
 - Better animation code + bug fixes
 
 
-08.04 2021 V3.3
+08.04 2021 V 2.9.8
 Changes:
 - Added Working file with all features 
 
