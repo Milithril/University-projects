@@ -1,10 +1,13 @@
 # University-projects
 Projects, including C.A 
 
-X 3.7.8
+24.05.2021 3.8.2
 Changes:
-- Simulation will stop when there isn't any alive cell on map
-- 
+- Added window with information about changing parameters of game
+- Added parametr "Hope" to automated clean by button
+- Fixed parameter menu, no longer app can crash by writing a letter instead of number
+- Added button to clear map and actual cell game setl
+
 18.05.2021 V 3.7.2
 Changes:
 - Animation Hot-fix, program won't crash if loaded simulation file is shorther than it should be in params (early stopping)
