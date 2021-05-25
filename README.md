@@ -3,7 +3,7 @@ Projects, including C.A
 
 Plans for the future:
 - make an instalion
-- 
+
 25.05.2021 4.0
 Changes:
 - Added a folder for simulation files.
