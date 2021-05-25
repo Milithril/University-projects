@@ -1,6 +1,16 @@
 # University-projects
 Projects, including C.A 
 
+Plans for the future:
+- make an instalion
+- 
+25.05.2021 4.0
+Changes:
+- Added a folder for simulation files.
+- Changed format of simulation file name, instead of "Symulacja" it is now  'Symulacja_month_day_year_hour:minute.txt'
+- Removed buttons to print put current parameters settings and board
+- Animaion window now appear on the left side of the screen instead of center
+ 
 24.05.2021 3.8.2
 Changes:
 - Added window with information about changing parameters of game
