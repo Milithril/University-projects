@@ -3,6 +3,14 @@ Projects, including C.A
 
 Plans for the future:
 - make an instalion
+- 
+02.06.2021 4.3
+Changes:
+- Cleared minor bugs
+- Removed unnecessary print outs
+- ProgressDialog window no longer causes random freezes of an app
+- Optimized multiprocesing part in animation
+- Removed bug, that caused to apper multi widnows with the same message 
 
 25.05.2021 4.0
 Changes:
