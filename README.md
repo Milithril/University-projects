@@ -3,7 +3,6 @@ Projects, including C.A
 
 Plans for the future:
 - make an instalion
-- 
 02.06.2021 4.3
 Changes:
 - Cleared minor bugs
